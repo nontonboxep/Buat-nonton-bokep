@@ -1,8 +1,8 @@
 import { connect } from "cloudflare:sockets";
 
 const proxyListURL = 'https://raw.githubusercontent.com/nontonboxep/Buat-nonton-bokep/main/output.txt';
-const namaWeb = 'GEO PROJECT'
-const telegramku = 'https://t.me/sampiiiiu'
+const namaWeb = 'NOVAN TUNNEL'
+const telegramku = 'https://t.me/novanthekillz'
 const wildcards = [
   'ava.game.naver.com',
   'business.blibli.com',
@@ -350,7 +350,7 @@ export default {
 <body>
   <!-- Header -->
   <header>
-    <h1>GeoVPN</h1>
+    <h1>NOVANVPN</h1>
     <p>Your Ultimate VPN Solution for Secure and Fast Internet</p>
   </header>
 
@@ -381,7 +381,7 @@ export default {
 
   <!-- Footer -->
   <footer>
-    <p>&copy; 2025 GeoVPN | <a href="/">Privacy Policy</a> | <a href="/">Terms of Service</a></p>
+    <p>&copy; 2025 NOVANVPN | <a href="/">Privacy Policy</a> | <a href="/">Terms of Service</a></p>
   </footer>
 </body>
 </html>
@@ -562,7 +562,7 @@ async function handleSubRequest(hostnem) {
 <body>
     <div class="container">
         <div class="card">
-            <h1 class="title">Geo Project</h1>
+            <h1 class="title">Novan Tunnel</h1>
             <form id="subLinkForm">
                 <div class="form-group">
                     <label for="app">Aplikasi</label>
